@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-22T12:29:52 IST" name="Default suite" finished-at="2023-06-22T12:31:09 IST" duration-ms="76821">
+  <suite started-at="2023-06-22T13:44:52 IST" name="Default suite" finished-at="2023-06-22T13:46:25 IST" duration-ms="92783">
     <groups>
     </groups>
-    <test started-at="2023-06-22T12:29:52 IST" name="Default test" finished-at="2023-06-22T12:31:09 IST" duration-ms="76821">
+    <test started-at="2023-06-22T13:44:52 IST" name="Default test" finished-at="2023-06-22T13:46:25 IST" duration-ms="92783">
       <class name="com.onlineshoppingtestscript.OnlineShoppingTestScript">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:com.onlineshoppingtestscript.OnlineShoppingTestScript@156b88f5]" started-at="2023-06-22T12:29:52 IST" name="openApp" finished-at="2023-06-22T12:30:15 IST" duration-ms="22665" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.onlineshoppingtestscript.OnlineShoppingTestScript@156b88f5]" started-at="2023-06-22T13:44:52 IST" name="openApp" finished-at="2023-06-22T13:45:24 IST" duration-ms="31931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="allmethods()[pri:0, instance:com.onlineshoppingtestscript.OnlineShoppingTestScript@156b88f5]" started-at="2023-06-22T12:30:15 IST" name="allmethods" finished-at="2023-06-22T12:31:09 IST" duration-ms="54109" status="PASS">
+        <test-method signature="allmethods()[pri:0, instance:com.onlineshoppingtestscript.OnlineShoppingTestScript@156b88f5]" started-at="2023-06-22T13:45:24 IST" name="allmethods" finished-at="2023-06-22T13:46:25 IST" duration-ms="60786" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- allmethods -->
